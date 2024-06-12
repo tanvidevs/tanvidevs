@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend Developer from India🚩</h3>
 
 
-- 🔭 A 3rd year undergraduate at **VIT**
+- 🔭 I am graduate Students **VIT**
 
 - 🌱 I’m currently learning **Web Development**
 
